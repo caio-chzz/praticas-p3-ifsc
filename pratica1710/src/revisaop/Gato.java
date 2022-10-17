@@ -1,0 +1,12 @@
+package revisaop;
+
+public class Gato extends Animal{
+
+	
+	public void Mia() {
+		System.out.println("balacubaco");
+	}
+	
+	
+	
+}
