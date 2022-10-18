@@ -6,7 +6,8 @@ public class MainPessoa{
 
 	Professor p = new Professor();
 	Aluno x = new Aluno();
-
+	Pessoa br = new Pessoa();
+		
 	p.setSiape(444);
 	x.setMatricula(21212);
 	br.setNome("bruno");
